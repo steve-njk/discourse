@@ -82,6 +82,8 @@ gem 'omniauth-facebook'
 gem 'omniauth-twitter'
 gem 'omniauth-instagram'
 
+gem 'auth-logic', '3.2.10'
+
 # forked while https://github.com/intridea/omniauth-github/pull/41 is being upstreamd
 gem 'omniauth-github-discourse', require: 'omniauth-github'
 
