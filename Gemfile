@@ -34,6 +34,8 @@ else
   gem 'seed-fu', '~> 2.3.5'
 end
 
+gem 'dragonfly', '~> 0.9.14'
+
 gem 'mail'
 gem 'mime-types', require: 'mime/types/columnar'
 
